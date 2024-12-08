@@ -20,9 +20,9 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/c/JanelleK.Plange
 [instagram]: https://www.instagram.com/bandohjanelle_/
-[linkedin]: https://linkedin.com/in/jnellekplange
+[linkedin]: https://linkedin.com/in/janellekplange
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
