@@ -1,4 +1,4 @@
-<h1>Hi, I'm Janelle! <br/><a href="https://github.com/janelle2002">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Janelle! <br/><a href="https://github.com/janelle2002">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Developer</a>, <a href="https://www.youtube.com/@janellek.plange7567">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -7,10 +7,8 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
 <h2> 🤳 Connect with me:</h2>
